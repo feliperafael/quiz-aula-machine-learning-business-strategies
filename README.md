@@ -1,4 +1,4 @@
-# O Funil de 5 Perguntas — Quiz de Decisão em ML e IA
+# O Funil de 5 Perguntas - Quiz de Decisão em ML e IA
 
 [![Site](https://img.shields.io/badge/Acessar_Quiz-GitHub_Pages-3FA7C9?style=for-the-badge&logo=github)](https://feliperafael.github.io/quiz-aula-machine-learning-business-strategies/)
 
